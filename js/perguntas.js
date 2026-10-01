@@ -1,5 +1,5 @@
 
-const perguntas = [
+ export const perguntas = [
     {
         enunciado: "Qual é o impacto da retirada clandestina de um fóssil de seu local de origem?",
         alternativas: [
